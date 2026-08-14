@@ -1,16 +1,32 @@
-# React + Vite
+# Stellar Testnet Wallet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Stellar Testnet wallet application built for learning and practicing Web3 development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔗 Connect Freighter Wallet
+- 🟢 Stellar Testnet support
+- 💰 View XLM balance
+- 📤 Send XLM
+- 📥 Receive XLM
+- 📋 Copy wallet address
+- 📜 View transaction history
+- 🔄 Refresh transaction history
+- 🔗 View transactions on Stellar Explorer
+- 📱 Responsive UI
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- CSS
+- Stellar
+- Freighter Wallet
+- Vite
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone  http://localhost:5173/
