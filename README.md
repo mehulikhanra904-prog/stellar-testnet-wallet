@@ -26,7 +26,4 @@ A React-based Stellar Testnet wallet application built for learning and practici
 
 ## Getting Started
 
-Clone the repository:
-
-```bash
-git clone  http://localhost:5173/
+  http://localhost:5173/
